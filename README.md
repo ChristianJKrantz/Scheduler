@@ -49,4 +49,4 @@ The hour rows are generated in JavaScript from a start and end hour, rather than
 
 ## Author
 
-**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christian-krantz-49976b189) · [GitHub](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [GitHub](https://github.com/ChristianKrantz11)
